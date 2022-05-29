@@ -12,4 +12,4 @@ from this modules we are marking the attendance in Attendance.csv file if the co
 By using the opencv read the image and find location and and resize the image and faceencodeing and face colour
 
 ## output:
-![3](https://user-images.githubusercontent.com/84769073/170862552-6f420e97-43f4-48fa-8a66-0dadd97f2b30.png)
+![3](https://user-images.githubusercontent.com/84769073/170863303-d577cbe0-7088-4f37-aeff-f2a6527657c8.png)
