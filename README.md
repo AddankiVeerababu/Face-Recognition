@@ -4,7 +4,7 @@ The main modules in the project is that
  
 ## Face Encoding:
 
-we are from the face encoding we are using the some face features from some face features information
+From the face encoding it is extracting the some face features from some face features information
 
 ## Attendence:
 
