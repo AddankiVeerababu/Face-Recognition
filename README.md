@@ -8,7 +8,7 @@ From the face encoding it is extracting the some face features from some face fe
 
 ## Attendence:
 
-from this moduale we are marking the attendance in Attendance.csv file if the comparing  faces are same.
+from this modules we are marking the attendance in Attendance.csv file if the comparing  faces are same.
 By using the opencv read the image and find location and and resize the image and faceencodeing and face colour
 
 ## output:
